@@ -1,0 +1,7 @@
+
+FACTORY DESIGN PATTERN::::
+
+
+The client and user doesn't bother about about object creation and ite configuration.
+It just order to factory to a specified object and the factory is responsable for implementing & configure
+the required object and return to client.

@@ -1,7 +1,8 @@
 package structural.facade;
 
 /*
-A Facade Pattern says that just "just provide a unified and simplified interface to a set of interfaces in a subsystem, therefore it hides the complexities of the subsystem from the client".
+A Facade Pattern says that just "just provide a unified and simplified interface to a set of interfaces in a subsystem,
+therefore it hides the complexities of the subsystem from the client".
 
 In other words, Facade Pattern describes a higher-level interface that makes the sub-system easier to use.
 
